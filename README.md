@@ -108,21 +108,6 @@ The analysis identified **4 distinct customer segments**:
 4. **Visualization**: Generate cluster visualizations and insights
 5. **Business Analysis**: Review segment characteristics and recommendations
 
-## 📁 Project Structure
-
-```
-credit-card-clustering/
-│
-├── simple-credit-card-clustering-for-beginners.ipynb  # Main analysis notebook
-├── CC GENERAL.csv                                     # Dataset (not included)
-├── README.md                                         # Project documentation
-├── requirements.txt                                  # Dependencies
-└── results/                                         # Output visualizations
-    ├── cluster_distribution.png
-    ├── feature_correlations.png
-    └── customer_segments.png
-```
-
 ## 📊 Key Visualizations
 
 - **Elbow Curve**: Optimal cluster number determination
